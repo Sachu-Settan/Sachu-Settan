@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sachu-Settan&label=Profile%20views&color=0e75b6&style=flat" alt="pepesir" /> </p>
 
-- 🔭 I’m currently working on Rose Bot
+- 🔭 I’m currently working on Rose-Mwol Bot
 
 - 🌱 I’m currently learning **java**
 
