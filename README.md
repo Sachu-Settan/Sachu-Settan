@@ -20,9 +20,9 @@
 ## Bots you can deploy  <a href="https://github.com/Sachu-Settan/Rose-Mwol"><img title="Rose-Mwol Bot" src="https://img.shields.io/static/v1?label=Rose-Mwol&color=black&message=Bot&color=green"></a>
 
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SudoAnirudh&show_icons=true&theme=nightowl" alt="Anirudh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sachu-Settan&show_icons=true&theme=nightowl" alt="Anirudh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudoAnirudh&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="Anirudh"/></p></a><br> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachu-Settan&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="SachuSettan"/></p></a><br> 
 
 ##
 
