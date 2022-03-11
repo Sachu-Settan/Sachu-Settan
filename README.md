@@ -42,13 +42,15 @@
 
 </details>
 
+### Repo Stats 🔭
+
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Sachu-Settan&repo=Rose-Mwol&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Sachu-Settan&repo=Sachu-Settan.github.io&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Sachu-Settan&repo=Rose-Mwol-V2&theme=dark)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/sachu.modder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sachu.modder" height="30" width="40" /></a><a href="https://Wa.me/+919744933034?text=Hello%20Bro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="pepe.sir_" height="30" width="40" /></a>
 
 </p>
-### Repo Stats 🔭
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=SachuSettan&repo=Rose-Mwol&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=SachuSettan&repo=Sachu-Settan.github.io&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=SachuSettan&repo=Rose-Mwol-V2&theme=dark)
