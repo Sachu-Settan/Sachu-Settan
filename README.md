@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on Rose-Mwol Bot
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **javascript** **Python** **HTML**
 
 - 📫 How to reach [me](https://Wa.me/+919744933034?text=Hello%20Bro)
 
