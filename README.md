@@ -50,7 +50,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/sachu.modder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sachu.modder" height="30" width="40" /></a><a href="https://Wa.me/+919744933034?text=Hello%20Bro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="pepe.sir_" height="30" width="40" /></a>
+<a href="https://instagram.com/sachu.modder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sachu.modder" height="30" width="40" /></a><a href="https://Wa.me/+919744933034?text=Hello%20Bro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Sachu-Settan" height="30" width="40" /></a>
 
 </p>
 
+<h3 align="center">Support 💖</h3>
+<p><a href="<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/afnanplk"> <img align="left" src="https://www.buymeacoffee.com/sachusettan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sachu-Settan" /></a></p>
