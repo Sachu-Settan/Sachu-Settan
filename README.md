@@ -22,7 +22,7 @@
 <div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sachu-Settan&show_icons=true&theme=radical" alt="Sachu Mon" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachu-Settan&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="SachuSettan"/></p></a><br> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachu-Settan&theme=radical&layout=compact&langs_count=10&show_icons=true" alt="SachuSettan"/></p></a><br> 
 
 ##
 
