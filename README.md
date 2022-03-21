@@ -20,7 +20,7 @@
 ## Bots you can deploy  <a href="https://github.com/Sachu-Settan/Rose-Mwol"><img title="Rose-Mwol Bot" src="https://img.shields.io/static/v1?label=Rose-Mwol&color=black&message=Bot&color=green"></a>
 
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sachu-Settan&show_icons=true&theme=nightowl" alt="Anirudh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sachu-Settan&show_icons=true&theme=radical" alt="Sachu Mon" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachu-Settan&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="SachuSettan"/></p></a><br> 
 
@@ -33,7 +33,10 @@
 
 </details>
 
-
+<details>
+    <summary>&#127942 <b>GitHub Contributions</b></summary><br/>
+ <img src="https://activity-graph.herokuapp.com/graph?username=Sachu-Settan&amp;bg_color=000000&amp;color=4fff67&amp;line=4fff67&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="GitHub Activity Graph">
+</details>
 
 <details>
     <summary>&#127942 <b>GitHub Activity (Public Data)</b></summary><br/>
@@ -48,8 +51,8 @@
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Sachu-Settan&repo=Sachu-Settan.github.io&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Sachu-Settan&repo=Rose-Mwol-V2&theme=dark)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://instagram.com/sachu.modder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sachu.modder" height="30" width="40" /></a><a href="https://Wa.me/+919744933034?text=Hello%20Bro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Sachu-Settan" height="30" width="40" /></a>
 
 </p>
