@@ -6,7 +6,8 @@
 
 <h1 align="center">Hi 👋, I'm Sachu (Sanooj)</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sachu-Settan&label=Profile%20views&color=0e75b6&style=flat" alt="pepesir" /> </p>
+
+​![​Visitor Count​](https://profile-counter.glitch.me/Sachu-Settan/count.svg)
 
 - 🔭 I’m currently working on Rose-Mwol Bot
 
