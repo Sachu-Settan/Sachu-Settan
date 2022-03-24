@@ -6,9 +6,6 @@
 
 <h1 align="center">Hi 👋, I'm Sachu (Sanooj)</h1>
 
-
-​![​Visitor Count​](https://profile-counter.glitch.me/Sachu-Settan/count.svg)
-
 - 🔭 I’m currently working on Rose-Mwol Bot
 
 - 🌱 I’m currently learning **javascript**,**CSS**,**HTML**
@@ -16,6 +13,12 @@
 - 📫 How to reach [me](https://Wa.me/+919744933034?text=Hello%20Bro)
 
 - 💬 Ask me about my future projects 👽
+
+
+## Profile Views 💖
+<p align="center">
+<a href="#"><img title="Sachu Settan" src="https://profile-counter.glitch.me/Sachu-Settan/count.svg"></a>
+</p>
 
 
 ## Bots you can deploy  <a href="https://github.com/Sachu-Settan/Rose-Mwol"><img title="Rose-Mwol Bot" src="https://img.shields.io/static/v1?label=Rose-Mwol&color=black&message=Bot&color=green"></a>
