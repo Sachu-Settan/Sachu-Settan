@@ -15,11 +15,15 @@
 - 💬 Ask me about my future projects 👽
 
 
-## Profile Views 💖
+<h1 align="center"> Profile Views 💖</h1>
 <p align="center">
 <a href="#"><img title="Sachu Settan" src="https://profile-counter.glitch.me/Sachu-Settan/count.svg"></a>
 </p>
 
+<h1 align="center"> Now Playing (Spotify) 🎶 </h1>
+
+<div align="center">
+<img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=31c4rwp3i4gumuyuilvb5ds3midm&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=false" alt="Sachu Mon" />
 
 ## Bots you can deploy  <a href="https://github.com/Sachu-Settan/Rose-Mwol"><img title="Rose-Mwol Bot" src="https://img.shields.io/static/v1?label=Rose-Mwol&color=black&message=Bot&color=green"></a>
 
