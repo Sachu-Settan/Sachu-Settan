@@ -54,7 +54,9 @@
     <summary>&#127942 <b>My Repos ✨</b></summary><br/>
 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Sachu-Settan&repo=Rose-Mwol&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Sachu-Settan&repo=Sachu-Settan.github.io&theme=nightowl)
+<br>
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Sachu-Settan&repo=Sachu-Settan.github.io&theme=dark)
+<br>
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Sachu-Settan&repo=Rose-Mwol-V2&theme=dark)
     
 </details>
