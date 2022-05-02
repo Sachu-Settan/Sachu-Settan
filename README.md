@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=50&color=00FF00&center=true&vCenter=true&width=1000&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Sachu+(Sanooj))](https://github.com/Sachu-Settan)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=50&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Sachu+(Sanooj))](https://github.com/Sachu-Settan)
 
 
 ![My card name](https://cardivo.vercel.app/api?name=Sachu-Settan&description=Hi,%20Welcome%20To%20My%20Profile%20💖&image=https://avatars.githubusercontent.com/u/93819264?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=sachu.modder&github=Sachu-Settan&&pattern=leaf&colorPattern=%23eaeaea)
