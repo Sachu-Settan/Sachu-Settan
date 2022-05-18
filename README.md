@@ -13,7 +13,8 @@
 <br>
 <div align="center"> <a href="https://bit.ly/spotify-now-playing-sachu">
 <img align="center" src="https://spotify-now-playing-sachu.vercel.app/api/view?uid=31c4rwp3i4gumuyuilvb5ds3midm&cover_image=true&theme=default&bar_color_cover=true" alt="Sachu Mon" />
-    
+</a>
+
 ##
 
 
