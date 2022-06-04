@@ -12,7 +12,7 @@
 <h2 align="center"> Now Playing (Spotify) 🎶 </h2>
 <br>
 <div align="center"> <a href="https://bit.ly/spotify-now-playing-sachu">
-<img align="center" src="https://spotify-now-playing-sachu.vercel.app/api/view?uid=31c4rwp3i4gumuyuilvb5ds3midm&cover_image=true&theme=default&bar_color_cover=true" alt="Sachu Mon" />
+<img align="center" src="https://bit.ly/spotify-sachu-playing" alt="Sachu Mon" />
 </a>
 
 ##
