@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=50&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Sachu+(Sanooj))](https://github.com/Sachu-Settan)
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=50&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Sachu+(Sanooj)" alt="Sachu Mon" />
+</a>
+
 
 <br>
 <h2 align="center"> Profile Views 💖</h2>
