@@ -53,17 +53,17 @@
 <details>
     <summary>&#127942 <b>My Repos ✨</b></summary><br/>
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Sachu-Settan&repo=Kanappi-Bot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Sachu-Settan&repo=Sachu-Settan&theme=dark)
 <br>
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Sachu-Settan&repo=Sachu-Settan.github.io&theme=dark)
 <br>
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Sachu-Settan&repo=Rose-Clone2&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Sachu-Settan&repo=Java-Class-10&theme=dark)
     
 </details>
     
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://instagram.com/sachu.modder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sachu.modder" height="30" width="40" /></a><a href="https://Wa.me/+919744933034?text=Hello%20Bro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Sachu-Settan" height="30" width="40" /></a>
+<a href="https://instagram.com/_fantazzy.boy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sachu.modder" height="30" width="40" /></a><a href="https://Wa.me/+919744933034?text=Hello%20Bro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Sachu-Settan" height="30" width="40" /></a>
 
 </p>
 
