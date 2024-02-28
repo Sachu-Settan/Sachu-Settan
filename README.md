@@ -46,3 +46,5 @@
 <h2 align="center"><b>🎶 Now Playing on Spotify</b></h2>
 
 <p align="center"><a href="https://bit.ly/spotify-now-playing-sachu"><img align = "center" src="https://bit.ly/spotify-sachu-playing" alt="Currently Playing on Spotify"></a></p>
+
+<p align="center"><a href="https://discordapp.com/users/821653196161679371"><img align = "center" src="https://lanyard.cnrad.dev/api/821653196161679371" alt="Currently Playing on Spotify"></a></p>
