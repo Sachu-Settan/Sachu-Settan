@@ -4,8 +4,8 @@
 
 <p align="center"><b>I'm passionate about programming and specialize in Node.js, Python, and Java. Feel free to reach out if you have any questions or want to discuss these topics.</b></p>
 
-<p align="center"><b>📫 Contact me: <a href="mailto:sanoojes6371@gmail.com">sanoojes6371@gmail.com</a><br>
-👨‍💻 All of my projects are available at <a href="https://github.com/Sachu-Settan">Sachu-Settan</a></p>
+<p align="center"><b>📫 Contact me: <a href="https://discordapp.com/users/821653196161679371">Discord</a><a href ="https://wa.me/+919744933034" >WhatsApp</a><br>
+<!-- 👨‍💻 All of my projects are available at <a href="https://github.com/Sachu-Settan">Sachu-Settan</a></p> -->
 
 
 <h2 align="center">Skills & Expertise</h2>
@@ -23,6 +23,18 @@
 </p>
 
 
+<h2 align="center">💖 Support 💖</h2>
+<p align = "center"><a href="https://www.buymeacoffee.com/sachusettan"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sachu-Settan" /></a></p>
+
+<h2 align="center"><b>🗣️ Discord Presence</b></h2>
+
+<p align="center"><a href="https://discordapp.com/users/821653196161679371"><img align = "center" src="https://lanyard.cnrad.dev/api/821653196161679371" alt="Currently Playing on Spotify"></a></p>
+
+
+<h2 align="center"><b>🎶 Now Playing on Spotify</b></h2>
+
+<p align="center"><a href="https://bit.ly/spotify-now-playing-sachu"><img align = "center" src="https://bit.ly/spotify-sachu-playing" alt="Currently Playing on Spotify"></a></p>
+
 <h2 align="center"><b>Connect with Me</h2>
 
 <p align="center">
@@ -39,12 +51,3 @@
     <img src="icons/github.svg" alt="GitHub" height="30" width="40" />
   </a>
 </p>
-
-<h2 align="center">Support 💖</h2>
-<p align = "center"><a href="https://www.buymeacoffee.com/sachusettan"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sachu-Settan" /></a></p>
-
-<h2 align="center"><b>🎶 Now Playing on Spotify</b></h2>
-
-<p align="center"><a href="https://bit.ly/spotify-now-playing-sachu"><img align = "center" src="https://bit.ly/spotify-sachu-playing" alt="Currently Playing on Spotify"></a></p>
-
-<p align="center"><a href="https://discordapp.com/users/821653196161679371"><img align = "center" src="https://lanyard.cnrad.dev/api/821653196161679371" alt="Currently Playing on Spotify"></a></p>
