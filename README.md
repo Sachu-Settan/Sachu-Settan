@@ -4,7 +4,6 @@
 
 <p align="center"><b>I'm passionate about programming and specialize in Node.js, Python, and Java. Feel free to reach out if you have any questions or want to discuss these topics.</b></p>
 
-<p align="center"><b>📫 Contact me: <a href="https://discordapp.com/users/821653196161679371">Discord</a><a href ="https://wa.me/+919744933034" >WhatsApp</a><br>
 <!-- 👨‍💻 All of my projects are available at <a href="https://github.com/Sachu-Settan">Sachu-Settan</a></p> -->
 
 
