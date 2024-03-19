@@ -23,7 +23,7 @@
 
 
 <h2 align="center">💖 Support 💖</h2>
-<p align = "center"><a href="https://www.buymeacoffee.com/sachusettan"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sachu-Settan" /></a></p>
+<p align = "center"><a href="https://www.buymeacoffee.com/sanoojes"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sachu-Settan" /></a></p>
 
 <h2 align="center"><b>🗣️ Discord Presence</b></h2>
 
@@ -46,7 +46,7 @@
   <a href="https://wa.me/+919744933034?text=Hello!!">
     <img src="icons/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
   </a>
-  <a href="https://github.com/Sachu-Settan">
+  <a href="https://github.com/sanoojes">
     <img src="icons/github.svg" alt="GitHub" height="30" width="40" />
   </a>
 </p>
